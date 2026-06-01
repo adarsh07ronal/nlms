@@ -1,0 +1,6 @@
+build/
+results/erle_over_time.csv
+*.o
+*.a
+*.exe
+.DS_Store
