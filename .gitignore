@@ -4,3 +4,4 @@ results/erle_over_time.csv
 *.a
 *.exe
 .DS_Store
+venv/
